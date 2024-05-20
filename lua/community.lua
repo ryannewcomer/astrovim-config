@@ -10,6 +10,7 @@ return {
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.pack.java" },
+  { import = "astrocommunity.pack.ps1" },
   { import = "astrocommunity.file-explorer.telescope-file-browser-nvim" },
   { import = "astrocommunity.colorscheme.nordic-nvim" },
   { import = "astrocommunity.utility.noice-nvim" },
