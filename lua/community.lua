@@ -12,6 +12,7 @@ return {
   { import = "astrocommunity.pack.java" },
   { import = "astrocommunity.pack.ps1" },
   { import = "astrocommunity.file-explorer.telescope-file-browser-nvim" },
-  { import = "astrocommunity.colorscheme.nordic-nvim" },
+  -- { import = "astrocommunity.colorscheme.nordic-nvim" },
+  { import = "astrocommunity.colorscheme.iceberg-vim" },
   { import = "astrocommunity.utility.noice-nvim" },
 }
