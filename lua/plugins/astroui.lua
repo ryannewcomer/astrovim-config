@@ -11,6 +11,6 @@ return {
   ---@type AstroUIOpts
   opts = {
     -- change colorscheme
-    colorscheme = "iceberg",
+    colorscheme = "dark_flat",
   },
 }
