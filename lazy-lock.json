@@ -2,6 +2,7 @@
   "AstroNvim": { "branch": "main", "commit": "a126431c7e48d7d53cf9257d9c833b30ef164381" },
   "Comment.nvim": { "branch": "master", "commit": "0236521ea582747b58869cb72f70ccfa967d2e89" },
   "LuaSnip": { "branch": "master", "commit": "03c8e67eb7293c404845b3982db895d59c0d1538" },
+  "SchemaStore.nvim": { "branch": "main", "commit": "e33d8db3fdc0ac7be4ba5312feb4fc1972087eee" },
   "aerial.nvim": { "branch": "master", "commit": "4d10acbcb760802ea74381ac3ed98cbb6e5f7805" },
   "alpha-nvim": { "branch": "main", "commit": "41283fb402713fc8b327e60907f74e46166f4cfd" },
   "astrocommunity": { "branch": "main", "commit": "c64ad78e1253be3c664e0df9868ed433e420e39e" },
@@ -24,6 +25,7 @@
   "lazy.nvim": { "branch": "main", "commit": "758bb5de98b805acc5eeed8cdc8ac7f0bc4b0b86" },
   "lspkind.nvim": { "branch": "master", "commit": "1735dd5a5054c1fb7feaf8e8658dbab925f4f0cf" },
   "lua-async-await": { "branch": "main", "commit": "652d94df34e97abe2d4a689edbc4270e7ead1a98" },
+  "lualine.nvim": { "branch": "master", "commit": "544dd1583f9bb27b393f598475c89809c4d5e86b" },
   "mason-lspconfig.nvim": { "branch": "main", "commit": "9ae570e206360e47d30b4c35a4550c165f4ea7b7" },
   "mason-null-ls.nvim": { "branch": "main", "commit": "2b8433f76598397fcc97318d410e0c4f7a4bea6a" },
   "mason-nvim-dap.nvim": { "branch": "main", "commit": "3614a39aae98ccd34124b072939d6283853b3dd2" },
@@ -68,7 +70,6 @@
   "todo-comments.nvim": { "branch": "main", "commit": "a7e39ae9e74f2c8c6dc4eea6d40c3971ae84752d" },
   "toggleterm.nvim": { "branch": "main", "commit": "066cccf48a43553a80a210eb3be89a15d789d6e6" },
   "venv-selector.nvim": { "branch": "main", "commit": "6a1b15eb35bbb827b6db428055087e2dbf32838f" },
-  "vim-fugitive": { "branch": "master", "commit": "64d6cafb9dcbacce18c26d7daf617ebb96b273f3" },
   "vim-illuminate": { "branch": "master", "commit": "5eeb7951fc630682c322e88a9bbdae5c224ff0aa" },
   "vim-ps1": { "branch": "master", "commit": "839cec1550e09fc902c74103053e9e765051083d" },
   "which-key.nvim": { "branch": "main", "commit": "ce741eb559c924d72e3a67d2189ad3771a231414" }
