@@ -13,8 +13,8 @@ return {
   { import = "astrocommunity.pack.ps1" },
   { import = "astrocommunity.pack.html-css" },
   { import = "astrocommunity.file-explorer.telescope-file-browser-nvim" },
-  -- { import = "astrocommunity.colorscheme.nordic-nvim" },
+  { import = "astrocommunity.colorscheme.nordic-nvim" },
   -- { import = "astrocommunity.colorscheme.iceberg-vim" },
-  { import = "astrocommunity.colorscheme.sonokai" },
+  -- { import = "astrocommunity.colorscheme.sonokai" },
   { import = "astrocommunity.utility.noice-nvim" },
 }
