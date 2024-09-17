@@ -11,7 +11,7 @@ return {
   { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.pack.java" },
   -- { import = "astrocommunity.pack.ps1" },
-  { import = "astrocommunity.pack.html-css" },
+  --{ import = "astrocommunity.pack.html-css" },
   { import = "astrocommunity.file-explorer.telescope-file-browser-nvim" },
   { import = "astrocommunity.colorscheme.nordic-nvim" },
   -- { import = "astrocommunity.colorscheme.iceberg-vim" },
