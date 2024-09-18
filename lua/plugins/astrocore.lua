@@ -19,6 +19,7 @@ return {
         wrap = false,
         relativenumber = true,
       },
+      g = {},
     },
   },
 }
