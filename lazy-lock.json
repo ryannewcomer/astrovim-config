@@ -36,7 +36,6 @@
   "neoconf.nvim": { "branch": "main", "commit": "ec16c0234108542b54d83967b85350bcb7b07b8d" },
   "noice.nvim": { "branch": "main", "commit": "c1ba80ccf6b3bd8c7fc88fe2e61085131d44ad65" },
   "none-ls.nvim": { "branch": "main", "commit": "9b98991e15dce8fc502993e23caac2528b8b667f" },
-  "nord.nvim": { "branch": "master", "commit": "80c1e5321505aeb22b7a9f23eb82f1e193c12470" },
   "nordic.nvim": { "branch": "main", "commit": "03fcff3c8d68049b8118047784746048b4a08049" },
   "nui.nvim": { "branch": "main", "commit": "a0fd35fcbb4cb479366f1dc5f20145fd718a3733" },
   "nvim-autopairs": { "branch": "master", "commit": "ffc139f2a96640ca6c4d3dff9b95b7b9eace87ae" },
@@ -68,9 +67,10 @@
   "spring-boot.nvim": { "branch": "main", "commit": "218c0c26c14d99feca778e4d13f5ec3e8b1b60f0" },
   "telescope-file-browser.nvim": { "branch": "master", "commit": "dd9de68c08b6d678198a99f5ea13e0384a1f04cf" },
   "telescope-fzf-native.nvim": { "branch": "main", "commit": "cf48d4dfce44e0b9a2e19a008d6ec6ea6f01a83b" },
-  "telescope.nvim": { "branch": "master", "commit": "a0bbec21143c7bc5f8bb02e0005fa0b982edc026" },
+  "telescope.nvim": { "branch": "0.1.x", "commit": "a0bbec21143c7bc5f8bb02e0005fa0b982edc026" },
   "todo-comments.nvim": { "branch": "main", "commit": "ae0a2afb47cf7395dc400e5dc4e05274bf4fb9e0" },
   "toggleterm.nvim": { "branch": "main", "commit": "48be57eaba817f038d61bbf64d2c597f578c0827" },
+  "venv-selector.nvim": { "branch": "regexp", "commit": "e82594274bf7b54387f9a2abe65f74909ac66e97" },
   "vim-illuminate": { "branch": "master", "commit": "5eeb7951fc630682c322e88a9bbdae5c224ff0aa" },
   "which-key.nvim": { "branch": "main", "commit": "fb070344402cfc662299d9914f5546d840a22126" }
 }

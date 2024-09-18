@@ -16,7 +16,7 @@ return {
   { import = "astrocommunity.colorscheme.nordic-nvim" },
   -- { import = "astrocommunity.colorscheme.iceberg-vim" },
   --{ import = "astrocommunity.colorscheme.sonokai" },
-  { import = "astrocommunity.colorscheme.nord-nvim" },
+  { import = "astrocommunity.colorscheme.nordic-nvim" },
   -- { import = "astrocommunity.colorscheme.sonokai" },
   { import = "astrocommunity.utility.noice-nvim" },
 }
