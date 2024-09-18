@@ -15,11 +15,8 @@ return {
   { import = "astrocommunity.file-explorer.telescope-file-browser-nvim" },
   { import = "astrocommunity.colorscheme.nordic-nvim" },
   -- { import = "astrocommunity.colorscheme.iceberg-vim" },
-<<<<<<< HEAD
   --{ import = "astrocommunity.colorscheme.sonokai" },
   { import = "astrocommunity.colorscheme.nord-nvim" },
-=======
   -- { import = "astrocommunity.colorscheme.sonokai" },
->>>>>>> 70ac878a73b842341460adcaf9415d9bef1b6839
   { import = "astrocommunity.utility.noice-nvim" },
 }
